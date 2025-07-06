@@ -3,16 +3,16 @@
 	<metadata>
 		<id>BASRemote</id>
 		<version>$version$</version>
-		<authors>CheshireCaat</authors>
-		<owners>CheshireCaat</owners>
+		<authors>bablosoft</authors>
+		<owners>bablosoft</owners>
 		<requireLicenseAcceptance>false</requireLicenseAcceptance>
 		<license type="expression">MIT</license>
-		<projectUrl>https://github.com/CheshireCaat/BASRemote.NET</projectUrl>
+		<projectUrl>https://github.com/bablosoft/BASRemote.NET</projectUrl>
 		<icon>tools\basremote-icon.png</icon>
 		<description>
     	.NET library, which allows you to automate Google Chrome browser.
     	</description>
-		<copyright>Copyright 2021</copyright>
+		<copyright>Copyright 2025</copyright>
 		<language>en-US</language>
 		<tags>bas bas-remote bas-client bas-remote-control bas-remote-client automation cef browser macros visual-programming-language bot bot-framework poster grabber ide windows-desktop chromium imacros browserautomationstudio bas</tags>
 		<dependencies>

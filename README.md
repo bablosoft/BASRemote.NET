@@ -1,8 +1,7 @@
 # BASRemote.NET
 
 [![NuGet version](https://badge.fury.io/nu/BASRemote.svg)](https://badge.fury.io/nu/BASRemote)
-[![Build status](https://ci.appveyor.com/api/projects/status/se1coyoqblwm0imd?svg=true)](https://ci.appveyor.com/project/CheshireCaat/basremote-net)
-[![GitHub issues](https://img.shields.io/github/issues/CheshireCaat/BASRemote.NET)](https://github.com/CheshireCaat/BASRemote.NET/issues)
+[![GitHub issues](https://img.shields.io/github/issues/bablosoft/BASRemote.NET)](https://github.com/bablosoft/BASRemote.NET/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **BASRemote** - .NET library, which allows you to **automate Google Chrome browser**.
@@ -72,7 +71,7 @@ using (var ScriptClient = new BASRemote.BasRemoteClient(ScriptOptions))
 }
 ```
 
-Checkout [wiki](https://github.com/CheshireCaat/BASRemote.NET/wiki) for more examples.
+Checkout [wiki](https://github.com/bablosoft/BASRemote.NET/wiki) for more examples.
 
 # Running custom code
 
